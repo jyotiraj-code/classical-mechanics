@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 g=9.81 #The value is in ms^-2
 L=1.0 #The supposed length of the string
-theta0 = np.pi/4 #This is the inital angle from which the bob was released
+theta0 = np.pi/4 #This is the inital angle from whxich the bob was released
 omega0 = 0.0 #The initial angular velocity of the bob
 time_step=0.01 #The time step for the simulation
 total_time=10.0 #The total time for which the simulation is to be run
