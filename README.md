@@ -20,5 +20,5 @@ The angular velocity $\omega$ of the pendulum at any time t is given by:
 $$
 \omega(t) = &radic;(\frac{g}{L}) * \theta<sub>0</sub> \sin(&radic;(\frac{g}{L}))*t
 $$
-
+Following is the resulting graph of energy curves (between KE, PE, TE) and Angle v/s Time
 ![The graph of Energy curves and Angle v/s Time](Figures.png)
